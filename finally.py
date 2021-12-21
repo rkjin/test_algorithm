@@ -7,7 +7,7 @@ if __name__ == '__main__':
     except Exception as e:
         pass
     finally:
-        f.close
+        f.close 
 
 
 pass
